@@ -74,5 +74,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- The llama-factory library: [https://github.com/hazyresearch/llama-factory](https://github.com/hazyresearch/llama-factory)
-- The Grobid tool: [https://github.com/grobid/grobid](https://github.com/grobid/grobid)
+- The llama-factory library: [https://github.com/hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
+- The Grobid tool: [https://github.com/kermitt2/grobid](https://github.com/kermitt2/grobid)
