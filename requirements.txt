@@ -1,0 +1,3 @@
+grobid_tei_xml
+beautifulsoup4
+pip3 install lxml
